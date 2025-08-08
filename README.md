@@ -1,2 +1,3 @@
-# FFRSmpeg
-Rust rebuild of FFmpeg
+# FFmpreg
+
+mpregnated Rust rebuild of FFmpeg
